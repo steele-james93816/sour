@@ -1,0 +1,31 @@
+body {
+	background-color: #9ebe8d;
+	font-family: "Times New Roman", Times, serif;
+}
+#main {
+	background-color: #f9f9f8;
+
+
+	border-radius: 10px;
+	box-shadow: 10px 10px 5px grey;
+
+
+	height: 1000px;
+	width: 80%;
+
+
+	margin: 20px;
+	margin-top: 50px;
+	margin-left: 20px;
+	margin-bottom: 50px;
+}
+#main_header {
+	text-align: center;
+	padding: 20px;
+}
+.well{
+	margin-top: 20px;
+}
+#home_well {
+	margin-top: 20px;
+}
